@@ -1,0 +1,25 @@
+body{
+    background-color: powderblue;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+} 
+h1{
+    color: orange;
+    text-shadow: 2px 2px 5px black;
+}
+h3{
+    color:red;
+    text-shadow: 2px 2px 3px lightgreen;
+}
+h3:hover{
+    color: orange;
+}
+h1:hover{
+    color: red;
+}
+img{height: 50%;}
