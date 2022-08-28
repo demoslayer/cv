@@ -23,3 +23,13 @@ h3:hover{
 h1:hover{
     color: rgb(218, 57, 113);
 }
+.bottom{
+    position:absolute;
+    top:700px;
+    left:500px;
+}
+.last{
+    position:absolute;
+    top:1500px;
+    left:500px;
+}
