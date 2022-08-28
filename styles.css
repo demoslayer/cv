@@ -9,16 +9,17 @@ hr{
     width: 5%;
 } 
 h1{
-    color: orange;
+    color: red;
     text-shadow: 2px 2px 5px black;
+    font-family:'sacramento',cursive;
 }
 h3{
-    color:red;
+    color:rgb(45, 5, 243);
     text-shadow: 2px 2px 3px lightgreen;
 }
 h3:hover{
     color: orange;
 }
 h1:hover{
-    color: red;
+    color: rgb(218, 57, 113);
 }
